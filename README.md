@@ -8,7 +8,7 @@
 | 平台 | 下载 |
 | --- | --- |
 | GitHub | [StarShell-Setup-1.0.3-x64.exe（约 104 MB，单文件）](https://github.com/zongyu888/starshell-downloads/releases/download/v1.0.3/StarShell-Setup-1.0.3-x64.exe) |
-| Gitee（国内备用） | [前往 Gitee 发行版](https://gitee.com/zongyu_xyz/starshell-downloads/releases/tag/v1.0.3)（单附件 100 MB 限制，安装包拆成两个分卷，附 `merge.bat`） |
+| Gitee（国内备用） | [前往 Gitee 发行版](https://gitee.com/zongyu_xyz/starshell-desktop/releases/tag/v1.0.3)（单附件 100 MB 限制，安装包拆成两个分卷，附 `merge.bat`） |
 
 SHA-256：`593b96d8ba274c9c253d2e8c89b65494a1bf0fdec24e10fb73f2090d3955ef40`
 
